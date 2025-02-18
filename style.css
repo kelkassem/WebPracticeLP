@@ -1,0 +1,103 @@
+.landing-page,
+.landing-page * {
+  box-sizing: border-box;
+}
+.landing-page {
+  background: #ff3030;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.bmgt-407 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 40px;
+  top: 38px;
+  width: 316px;
+  height: 137px;
+}
+.homepage {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 735px;
+  top: 38px;
+  width: 316px;
+  height: 159px;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 1011px;
+  top: 38px;
+  width: 316px;
+  height: 98px;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 1194px;
+  top: 38px;
+  width: 221px;
+  height: 98px;
+}
+.let-s-create-a-website-design {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 280px;
+  top: 332px;
+  width: 1006px;
+  height: 109px;
+}
+.today-let-s-create-a-sample-website-design-in-figma-and-export-its-corresping-html-and-css-codes {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 280px;
+  top: 406px;
+  width: 845px;
+  height: 263px;
+}
+.get-started-button {
+  background: #7afb66;
+  border-radius: 60px;
+  width: 369px;
+  height: 122px;
+  position: absolute;
+  left: 506px;
+  top: 643px;
+}
+.get-started {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 576px;
+  top: 680px;
+  width: 229px;
+  height: 47px;
+}
